@@ -1,4 +1,4 @@
-# File Watcher
+# S3 OBS Library
 
 Library for integrating with S3-compatible object storage using version 3 of the AWS SDK API.
 
